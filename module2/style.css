@@ -29,10 +29,9 @@ div>div{
 span{
 	text-align:center; 
     font-size: 23px;
-
-	margin: 5px 5px 0px;
-		
+    border:2px solid black;	
 	float: right;
+
     
 }
 .t1{
